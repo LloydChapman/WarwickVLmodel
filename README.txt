@@ -4,7 +4,7 @@ Version: 0.1.0
 
 Author: Lloyd Chapman
 
-Email: L.Chapman.1@warwick.ac.uk
+Email: Lloyd.Chapman@lshtm.ac.uk
 
 Description: MATLAB code for running simulations of the World Health Organization’s guidelines for visceral leishmaniasis (VL) elimination in the Indian subcontinent (described in [1]), for the Warwick VL ordinary differential equation transmission models described in [2] and [3]. This code is a modified and updated version of the code in [4], which in addition to model W1 (in which asymptomatic individuals are infectious to sandflies) now includes model W0, in which only clinical VL cases are infectious. The main file for choosing the model, setting the parameter values and running the simulations is “RunWHOSimltns.m”. The code outputs the results shown in Fig. 2 and Supplementary Figs 1 and 2 in [3], but can also be used to predict the impact of alternative intervention scenarios (different changes in average onset-to-treatment time for clinical cases and indoor residual insecticide spraying coverages).
 
